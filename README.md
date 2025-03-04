@@ -31,7 +31,7 @@ If this is your first time here, start from step 1. If you built a YTMU IPA befo
 4. Find a decrypted YTMusic .ipa file (we cannot provide you this due to legal reasons) and upload it to a file provider(filebin.net or Dropbox is recommended). Paste the url to the necessary field and click "Run workflow".
 5. Wait for the build to finish. You can download the tweaked IPA from the releases section of your forked repo. (If you can't find the releases section, go to your forked repo and add /releases to the url. i.e github.com/user/YTMusicUltimate/releases)
 
-## IPA building troubleshooting(I can't build the IPA/Github action fails/I can't find the releases section etc.)
+## IPA building troubleshooting (I can't build the IPA/Github action fails/I can't find the releases section etc.)
 
 99.9% of the time, the culprit is the IPA URL you provided. You HAVE TO provide a decryped IPA. It cannot be any other extension, it has to be a **.ipa** file. Find a decrypted YTMusic IPA(we can't help you with that), upload it to filebin.net or Dropbox, give the direct link to the GitHub action. If you find a working ipa and upload it properly, everything will start working perfectly, pinky promise.
 
